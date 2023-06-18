@@ -1,0 +1,5 @@
+Typing speed test
+
+install pygame and pyjoke
+pygame==2.0.1
+pyjokes==0.6.0
